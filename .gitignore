@@ -1,0 +1,12 @@
+# Ignore all executables
+*.exe
+*.out
+*.app
+*.o
+
+# Ignore specific binaries
+server
+client
+
+# Vscode files
+.vscode
