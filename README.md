@@ -1,12 +1,6 @@
-## API GATEWAY
+## TCP Server
 
-An `API Gateway` is a server that acts as a single entry point for multiple backend services. It can handle:
-
-- Routing requests to appropriate microservices
-
-- Authentication / authorization
-
-- Rate limiting
+simple `tcp` server with use of `poll()`
 
 ### Technologies
 ---
