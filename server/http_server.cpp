@@ -66,6 +66,7 @@ int main()
 
     /**
      * Listen for incoming clients on our socket
+     * Here OS create a backlog queue a buffers holds connection requests
      */
     if (listen(listen_fd, SOMAXCONN) < 0)
     {

@@ -6,7 +6,5 @@
 
 # Ignore specific binaries
 
-client
-
 # Vscode files
 .vscode
